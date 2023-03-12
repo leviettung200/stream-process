@@ -1,0 +1,45 @@
+https://viettelidc.com.vn/tin-tuc/dien-toan-dam-may-tai-viet-nam-thi-truong-tiem-nang-len-den-53-nghin-ty-dong
+
+https://techmaster.vn/posts/36959/aws-cong-bo-ha-tang-dam-may-aws-local-zone-moi-tai-viet-nam
+https://www.osam.io/post/4-mo-hinh-dien-toan-dam-may-pho-bien
+
+
+https://fit.lqdtu.edu.vn/files/DanhSach/Book_%20Dien%20toan%20dam%20may%20-%20Nhieu%20tac%20gia.pdf
+
+
+
+
+- Phân tích mô tả: Phân tích mô tả được thực hiện để trả lời các sự kiện đã xảy ra, các câu hỏi ví dụ để phân tích mô tả là: Doanh số bán hàng trong 12 tháng qua là bao nhiêu? Lợi nhuận hàng tháng trên mỗi đại lý bán hàng? Phân tích mô tả thường được thực hiện dưới dạng báo cáo hoặc trang tổng quan (đồ thị hoặc biểu đồ). Một ví dụ về phân tích mô tả là tạo báo cáo để cung cấp cái nhìn về dữ liệu tài chính và bán hàng của một tổ chức. - Phân tích chẩn đoán: Phân tích chẩn đoán nhằm xác định nguyên nhân của các hiện tượng trong quá khứ bằng cách sử dụng các câu hỏi tập trung vào nguyên nhân của sự kiện. Những câu hỏi như: Tại sao doanh thu quý 2 lại thấp hơn doanh thu quý 1. Tại sao có sự gia tăng các sự cố mạng trong 3 tháng qua. Kết quả phân tích chẩn đoán bằng các công cụ trực quan giúp người dùng xác định xu hướng. Nó được thực hiện trên dữ liệu đa chiều được lưu trữ trong các hệ thống phân tích.
+
+Phân tích dự đoán: Phân tích dự đoán được sử dụng để xác định kết quả của một sự kiện sẽ xảy ra trong tương lai. Hoặc một mô hình xác định các sự kiện tương tự trong tương lai dựa trên các sự kiện trong quá khứ với các điều kiện nhất định. Nếu các điều kiện cơ sở này thay đổi, mô hình dự đoán phải được cập nhật. Các câu hỏi ví dụ cho phân tích dự đoán có dạng giả thuyết, chẳng hạn như: Nếu khách hàng đã mua sản phẩm A và B, thì khả năng họ cũng sẽ mua sản phẩm C là bao nhiêu? Loại phân tích này liên quan đến việc sử dụng các tập dữ liệu lớn và các kỹ thuật thống kê, máy học như mạng nơ-ron, cây quyết định và hồi quy, trong số những kỹ thuật khác.
+- Phân tích đề xuất: Phân tích đề xuất được xây dựng dựa trên kết quả của phân tích dự đoán và liệt kê các hành động cần phải thực hiện. Phân tích này không chỉ xem xét việc chọn cách hành động tốt nhất mà còn giải đáp tại sao?
+
+
+
+- Siêu dữ liệu: Siêu dữ liệu cung cấp thông tin về đặc điểm và cấu trúc của tập dữ liệu. Loại dữ liệu này chủ yếu do máy tạo ra và có thể được thêm vào dữ liệu. Theo dõi siêu dữ liệu rất quan trọng đối với việc xử lý, lưu trữ và phân tích dữ liệu lớn vì nó cung cấp thông tin về nguồn gốc của dữ liệu và nguồn gốc của nó trong quá trình xử lý. Ví dụ về siêu dữ liệu bao gồm: các thẻ XML cung cấp xác minh tệp và ngày tạo; các thuộc tính này cung cấp kích thước tệp và độ phân giải của ảnh kỹ thuật số. Các giải pháp dữ liệu lớn thường dựa trên siêu dữ liệu, đặc biệt là khi xử lý dữ liệu bán cấu trúc và phi cấu trúc.
+Dữ liệu bán cấu trúc: Dữ liệu bán cấu trúc thường là dữ liệu có cấu trúc nhưng không đồng nhất. Ngược lại, dữ liệu bán cấu trúc có dạng phân cấp (hierarchical) hoặc dựa trên đồ thị. Loại dữ liệu này thường được lưu trữ trong các tệp chứa văn bản.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+{
+    "id": 172807,
+    "trans_date_trans_time": "2020-08-20 21:50:58",
+    "cc_num": 180011453250192,
+    "merchant": "Abbott-Steuber",
+    "category": "personal_care",
+    "amt": 76.97,
+    "first": "Craig",
+    "last": "Dunn",
+    "gender": "M",
+    "street": "721 Jacqueline Brooks",
+    "city": "New Boston",
+    "state": "IL",
+    "zip": 61272,
+    "lat": 41.2153,
+    "long": -90.9879,
+    "city_pop": 1504,
+    "job": "Manufacturing engineer",
+    "dob": "1993-10-05",
+    "trans_num": "a0b291148c2746b8b265ec6908ee0f5c",
+    "unix_time": 1377035458,
+    "merch_lat": 40.746361,
+    "merch_long": -91.19765,
+    "is_fraud": 0
+  }
+
+
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "trans_date_trans_time": {
+        "type": "string"
+      },
+      "cc_num": {
+        "type": "integer"
+      },
+      "merchant": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string"
+      },
+      "amt": {
+        "type": "number"
+      },
+      "first": {
+        "type": "string"
+      },
+      "last": {
+        "type": "string"
+      },
+      "gender": {
+        "type": "string"
+      },
+      "street": {
+        "type": "string"
+      },
+      "city": {
+        "type": "string"
+      },
+      "state": {
+        "type": "string"
+      },
+      "zip": {
+        "type": "integer"
+      },
+      "lat": {
+        "type": "number"
+      },
+      "long": {
+        "type": "number"
+      },
+      "city_pop": {
+        "type": "integer"
+      },
+      "job": {
+        "type": "string"
+      },
+      "dob": {
+        "type": "string"
+      },
+      "trans_num": {
+        "type": "string"
+      },
+      "unix_time": {
+        "type": "integer"
+      },
+      "merch_lat": {
+        "type": "number"
+      },
+      "merch_long": {
+        "type": "number"
+      },
+      "is_fraud": {
+        "type": "integer"
+      }
+    },
+    "required": [
+      "id",
+      "trans_date_trans_time",
+      "cc_num",
+      "merchant",
+      "category",
+      "amt",
+      "first",
+      "last",
+      "gender",
+      "street",
+      "city",
+      "state",
+      "zip",
+      "lat",
+      "long",
+      "city_pop",
+      "job",
+      "dob",
+      "trans_num",
+      "unix_time",
+      "merch_lat",
+      "merch_long",
+      "is_fraud"
+    ]
+  }
+
+// events_schema = StructType([
+//     StructField("id", StringType(), True),
+//     StructField("timestamp", StringType(), True),
+//     StructField("uv", StringType(), True),
+//     StructField("temperature", StringType(), True),
+//     StructField("humidity", StringType(), True)])
